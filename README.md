@@ -62,7 +62,10 @@ VALUES ('teste', 'teste1')
 Pode ser vista no acesso local pela web com as seguintes URLs: 
 <br>
 - http://localhost:9981/alunos
+
 &nbsp;&nbsp;&nbsp;Mostra os integrantes que desenvolveram a API
+
 - http://localhost:9981/allItems
+
 &nbsp;&nbsp;&nbsp;Mostra os items que estão no banco de dados
 </br>
