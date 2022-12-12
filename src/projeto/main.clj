@@ -13,7 +13,7 @@
            :subprotocol "mysql"
            :subname (str "//" db-host ":" db-port "/" db-name "?useTimezone=true&serverTimezone=UTC")
            :user "root"
-           :password "Michael@28/04/98@"}))
+           :password "Michael@08/28/98@"}))
 
 (defn response-hello [req]
   {:status 200 :body "Projeto feito pelos integrantes:\n
