@@ -60,8 +60,9 @@ VALUES ('teste', 'teste1')
 ## Consulta na API 
 
 Pode ser vista no acesso local pela web com as seguintes URLs: 
-
+<br />
 - http://localhost:9981/alunos
-    Mostra os integrantes que desenvolveram a API
+&nbsp;&nbsp;&nbsp;Mostra os integrantes que desenvolveram a API
 - http://localhost:9981/allItems
-    Mostra os items que estão no banco de dados
+&nbsp;&nbsp;&nbsp;Mostra os items que estão no banco de dados
+<br />
