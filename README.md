@@ -35,9 +35,6 @@ Serão consideradas essas as entidades principais.
 </br>
 ## Projeto
 
-o projeto consiste em criar um Mysql que pode ser alterado por codigo, na pasta clojure_mysql no arquivo core.clj
-onde esta todo a base do MySQL e do Pedestal.
-
 O projeto consistem em criar uma API que possa acessar o banco de dados MySQL e extrair informações dele. É possivel verificar na pasta do "API_CLOJURE" dentro de "src\projeto\main.clj" utilizamos a biblioteca "clojure.java.jdbc" para acessar o servidor do banco de dados e conseguir acessar o banco de dados "produtos". A partir de então utilizamos o pedestal para realizar administrar as requisições e construir os endpoints para realizar a consulta na API.
 
 Podemos notar que com a linguagem Clojure é possivel construir a API de um jeito muita mais objetivo, evitando assim caminhos inesperados, o que torna muito util para as APIs, já que ou você realiza a consulta no endpoint correto ou não irá realizar a requisição adequadamente, retornando assim como no código "Not Found".
